@@ -3,7 +3,7 @@ Django==1.9.7
 django-import-export==0.4.5
 fake-factory==0.7.2
 html2text==2016.5.29
-python-dateutil==2.6.0
+python-dateutil==2.8.1
 requests==2.11.0
 requests-toolbelt==0.7.0
 six==1.10.0
