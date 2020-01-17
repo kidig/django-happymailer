@@ -2,7 +2,7 @@ diff-match-patch==20121119
 Django==1.9.7
 django-import-export==0.4.5
 fake-factory==0.7.2
-html2text==2016.5.29
+html2text==2020.1.16
 python-dateutil==2.6.0
 requests==2.11.0
 requests-toolbelt==0.7.0
