@@ -9,4 +9,4 @@ requests-toolbelt==0.7.0
 six==1.10.0
 sqlparse==0.1.19
 tablib==0.11.2
-trafaret==0.7.1
+trafaret==2.1.0
