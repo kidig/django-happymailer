@@ -7,6 +7,6 @@ python-dateutil==2.6.0
 requests==2.11.0
 requests-toolbelt==0.7.0
 six==1.10.0
-sqlparse==0.1.19
+sqlparse==0.4.1
 tablib==0.11.2
 trafaret==0.7.1
